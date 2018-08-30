@@ -1,0 +1,33 @@
+{
+  "greeting": "Bienvenido!",
+  "instructions": "Este demo es un template para crear tus propios bots!",
+  "select_demo": "Seleccionar un demo",
+  "request_name": "Hola humano, cuál es tu nombre?",
+  "years_coding": "Cuántos años has estado codificando?",
+  "preferred_language": "Cuál es tú lenguaje preferido?",
+  "programming_years_lang": "Ok %s, tú has estado programando por %s años y usando %s",
+  "change_language": "Cambiar lenguaje",
+  "request_info": "Solicitar info",
+  "language_selected": "Su idioma preferido es ahora %s",
+  "must_select_option": "Debe seleccionar una opción",
+  "language_processing": "Procesamiento de lenguaje",
+  "greetings": [
+    "Hola humano!",
+    "Hola terrícola!",
+    "Ok... estás aburrido y quieres un abrazo de robot?",
+    "Para qué me despertaste? Escribe rápido o déjame seguir soñando que estaba conquistando al mundo!"
+  ],
+  "leave": [
+    "No puedes escapar. Muajaja",
+    "Buena suerte!",
+    "Realmente te extrañaré",
+    "La mejor de las suertes!",
+    "Ten una vida próspera y mantente en contacto!",
+    "Adiós mi amigo humano",
+    "Actualmente estoy en una entrevista de trabajo de bots y le responderé si no logro obtener el puesto"
+  ],
+  "enable_luis": "Habilitar LUIS",
+  "luis_enabled": "LUIS habilitado, puedes saludar! (exit para deshabilitar)",
+  "dont_understand_you": "No te entiendo, qué quieres?",
+  "movie_selected": "El usuario quiere ver la película: %s"
+}
